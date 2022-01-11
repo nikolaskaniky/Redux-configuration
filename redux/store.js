@@ -57,6 +57,7 @@ export function useStore(initialState) {
 
 //! npm installs.
 //redux
+//react-redux
 //redux-devtools-extension
 //redux-persist
 //redux-thunk
